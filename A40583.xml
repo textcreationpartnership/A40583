@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Full and true relation of a dreadful storm or tempest accompanied with thunders, lightnings, and hail-stones, some of them being above two pounds in weight as likewise a terrible earthquake, continuing for above half an hour, giving three furious onsets, the which hapned on the 16th of August 1680, in the city of Millain and the villages adjacent ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40583</idno>
+            <idno type="STC">Wing F2314A</idno>
+            <idno type="STC">ESTC R11369</idno>
+            <idno type="EEBO-CITATION">13791471</idno>
+            <idno type="OCLC">ocm 13791471</idno>
+            <idno type="VID">101848</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40583)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101848)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 454:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Full and true relation of a dreadful storm or tempest accompanied with thunders, lightnings, and hail-stones, some of them being above two pounds in weight as likewise a terrible earthquake, continuing for above half an hour, giving three furious onsets, the which hapned on the 16th of August 1680, in the city of Millain and the villages adjacent ...</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Davies,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Storms --  Italy --  Milan --  Early works to 1800.</term>
+               <term>Earthquakes --  Italy --  Milan --  Early works to 1800.</term>
+               <term>Milan (Italy) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101848:1"/>
+            <!-- PDF PAGE 28 -->
+            <pb n="1" facs="tcp:101848:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 28 -->
+            <argument>
+               <p>The Full and True RELATION Of a Dreadful Storm or Tempeſt Accompanied with Thunders, Lightnings, and Hail-ſtones, ſome of them being above Two pounds in weight: As likewiſe a terrible Earthquake, continuing for above half an hour, giving three furious onſets, the which hapned on the 16th of <hi>Auguſt</hi> 1680, in the City of <hi>Millain,</hi> and the Villages adjacent; ſo that in the ſpace of Three hours and a half, it quite demoliſhed Twenty ſtate<g ref="char:EOLhyphen"/>ly Houſes, and ruined about one hundred and fifty more, and greatly Endamaged Two Churches, by blowing off their Steeples, and unleading them.</p>
+               <p>As likewiſe An Account of Barns and Reeks fired by Lightning, Trees blown up by the Roots, and Villages adjacent deſtroyed; with about Sixty perſons killed, and a Hundred wounded, beſides a number of Cattle that periſhed: the like not having been known to happen: The Damages ſuſtained upon view of ſeveral worthy perſons, being granted to be One Million and a half.</p>
+               <p>With ſeveral other Remarkable Accidenrs (ſtrange and dreadful) as they were faithfully tranſmitted by a perſon of worth, who was upon view of the ſad accident, and gave his report as to the loſſes ſuſtained.</p>
+            </argument>
+            <p>WHen angry Heaven deſigns to puniſh man for Diſobedience, and to make him know he is but duſt, ſundry means are uſed; and wiſe Om<g ref="char:EOLhyphen"/>nipotence fore-warns before he ſtrikes, or gives his venge<g ref="char:EOLhyphen"/>ance reins to overwhelm with ruine irrevocable the Sons of Men: for ſure it is, Divine Juſtice is always tempered with Mercy, and many times ſome fall, to give the reſt an op<g ref="char:EOLhyphen"/>portunity
+<pb n="2" facs="tcp:101848:2"/>
+               <!-- PDF PAGE 29 -->
+for to repent, and ſo avoid the danger imminent, which otherwiſe would fall heavy on their heads: And truly through all Ages it has been obſerved, that the Almigh<g ref="char:EOLhyphen"/>ty has been loath to deſtroy the work that his right hand has formed; for as the holy Pſalmiſt does declare, that lowd Thunder is his voice among the waters, ſo may it be under<g ref="char:EOLhyphen"/>ſtood, that Tempeſts and Earthquakes are his warning-pieces, and as Heralds, gives us notice of wrath deſigned to fall; of which more dreadful has not happened, than what I ſhall here relate, which happened in the City of <hi>Millain,</hi> and the Vil<g ref="char:EOLhyphen"/>lages adjacent, on the 16th of <hi>Auguſt,</hi> 1680, the Circum<g ref="char:EOLhyphen"/>ſtances of which are as followeth.</p>
+            <p>About Noon an unuſual paleneſs over-caſt the Sun, and all the Clouds ſeemed of a white Amber-colour, their motions being many times contrary to the Winds, that about Three of the clock in the Afternoon began to blow ſtrong from the North-Weſt, when on a ſuddain, it Thundered, and darted Lightning ſo ſwift, as made the Heavens ſeem all on fire, whilſt a gathering blackneſs made it ſeem as night, that peo<g ref="char:EOLhyphen"/>ple could not diſcern each other, ſo as to be known the ſpace of ſix yards; which put all to a great amazement, and cauſed them to imagine that Dooms-day was at hand: but long their wonder had not laſted, ere from the breaking Clouds a ſtorm of Hail deſcended, the ſtones of which were of ſuch Magnitude, as has not been ſeen in any Age, many of them weighing two pounds or more; which ſurprizing many in the fields, and other places ſhelterleſs, killed them in a mo<g ref="char:EOLhyphen"/>ment, whilſt in vain they ſtrove to fly, and Cattle without number periſhed; all the Fruit-trees and others were broken in pieces for the ſpace of forty miles, as if they had been bat<g ref="char:EOLhyphen"/>tered with Cannon-Bullets, or the Branches torn with vio<g ref="char:EOLhyphen"/>lent hands: nor fared the City and Villages much better, for in many places the Spires were beaten off Church-ſteeples, the Leads broken through, and all the Ornaments therein quite ſpoyled; whilſt the Houſes went to wrack, ſcarce either Tiles or Slates being left upon them, but looſened or broke off by the furious Storm, they were by the violence of the winds
+<pb n="3" facs="tcp:101848:2"/>
+               <!-- PDF PAGE 29 -->
+carried like Leaves in the Air, far diſtant from their proper places; ſtacks of Chimneys likewiſe being blown down, whoſe fall demoliſhed ſeveral ſtately Buildings; ſo that the wretched people in amazement knew not where to fly for ſafety, but as they ſtrove to avoid one danger, fell ſoul of another as great if not greater than the former; for leaving their ruined Houſes, in the open ſtreets the Hail was worſe, and the Storm raged more, accompanyed with hot flaſhes of Lightning, and volleys of Thunder, ſo prodigious loud as was never heard before; ſo that multitudes being ſtruck down, lay ſprawling and crying for help in vain; each one preferring his ſafety before that of his friends.</p>
+            <p>Whilſt this was doing, ſeveral Barns and Reeks of Corn and Hay near adjoyning to the City, took fire, ſuppoſed to be done by Lightning, whoſe Flames, notwithſtanding all the Rain and Hail, burnt fierce, and being carried with the wind, whole ſheets of that devouring Element were hurled in the Air, not without greatly endangering the Churches and Buil<g ref="char:EOLhyphen"/>dings on that ſide the City.</p>
+            <p>The Storm and great Confuſion having continued for the ſpace of three hours, Rending and Tearing what e'r oppoſed it, immediately an unuſual Portent more dangerous, began to aſſault the tottering Ruines: for whether cauſed by the violence of the Tempeſt, or Whirlwinds incloſed in Natures Caverns, is not certain; but certain it is, the Earth began to Tremble more and more, till at laſt it fell into ſo terrible a ſhaking fit, as made the Buildings skip like Rams, and the People ſtagger as if drunk, that nothing but Confuſions and Amazements were ſpread among them, whilſt the Crying Children followed their woful Parents, for to ſhelter them from Heavens wrath, which the angry Skies ſent down. The Earthquake gave Three ſeveral onſets, which each time in<g ref="char:EOLhyphen"/>creaſed ſo, that the laſt ſeemed to have unhinged all Nature, and to have overturned her deep Foundations, the like ne<g ref="char:EOLhyphen"/>ver having been in any of theſe parts before. It continued for half an hour or ſomewhat more, doing infinite damage to thoſe Buildings the Storm had looſened; ſo that above
+<pb n="4" facs="tcp:101848:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 30 -->
+Twenty fell flat to the ground, and about one hundred and fifty ſpoiled and ruined, that they muſt be quite plucked down; beſides a number, almoſt numberleſs, that received leſs damage, though very conſiderable.</p>
+            <p>The two Churches on the Weſt-ſide, have almoſt all the Lead blown off them, and their Steeples half way blown down: Nor are the Villages leſs ruined, though they lye much lower, and are in ſeveral places ſheltred with ſmall ri<g ref="char:EOLhyphen"/>ſing Hills, and high-grown Trees; but Trees availed them not, for they, as well as Barns, Hay-reeks, Corn-reeks, and Houſes, were torn up by the Roots, ſome of them being toſ<g ref="char:EOLhyphen"/>ſed up in the Air, and made the ſport of winds. After the continuance of almoſt four hours, on a ſudden all was whiſt and ſtill; which put ſome into a great admiration, which might have been ſpared, had they conſidered what the Holy Scriptures ſaith, <hi>That both Winds and Waves, and all Created things obey, and at the voice of God deſiſt to rage.</hi>
+            </p>
+            <p>The next morning being very fair, ſeveral went to view the Ruines, and take a particular account of the Damages done, as well in the City as other Villages; which they found to be very great, and that the loſs and ſpoil of Hay, Corn, and Cattle onely, amounted to half a Million; and the Da<g ref="char:EOLhyphen"/>mages the Churches, Houſes, Out-houſes, and Barns had ſuſtained at the loweſt value, about one Million more. It is ſaid there was about Sixty perſons killed, and about a hun<g ref="char:EOLhyphen"/>dred wounded, with the fall of Hail, Tiles, Stones, and Timber. Several perſons of great Quality have come to be Spectators of our devaſtations, and with admiration bleſs themſelves, to ſee how many goodly Structures are demoliſhed and de<g ref="char:EOLhyphen"/>faced; and all conclude never to have beheld the like; ſo that it was thought fit by all our Magiſtrates, that a publick Faſt ſhould be Solemnized here at all the Churches, thereby to appeaſe the wrath of Heaven, and intreat him with ſup<g ref="char:EOLhyphen"/>plications to turn away his conceived diſpleaſure; which was accordingly performed on the 18th of the inſtant before-mentioned, with great Obſervance and Solemnity.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>T. Davies.</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
